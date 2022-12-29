@@ -1,0 +1,23 @@
+.const{
+    background-image: url("https://i.pinimg.com/736x/2d/a7/6d/2da76d68c1552fcee5f200fe68c8e135.jpg");
+    background-size: cover;
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.signinForm{
+    background-color: rgba(253, 253, 253, 0.26);
+    padding: 30px;
+    height: 300px;
+    border: 1px solid rgb(223 217 217 / 16%);
+    border-radius: 1px;
+}   
+
+.loginForm2{
+    background-color: rgb(223 217 217 / 16%);
+    margin-top: 5px;
+    padding: 30px;
+    border: 1px solid rgb(223 217 217 / 16%);
+}

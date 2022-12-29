@@ -1,0 +1,49 @@
+.CreatePost{   
+    width: 450px; 
+    margin: 10px auto;
+    border: 2px solid rgb(173, 173, 173);
+    border-radius: 5px;
+}
+
+.main-div{
+    border-top: 1px solid rgb(173, 173, 173);
+}
+
+.main-div input{
+    display: flex;
+    padding: 5px;
+}
+
+.post-head{
+    display: flex;
+    padding: 3px;
+}
+
+.post-head>h4{
+    margin: 3px auto;
+}
+   
+#post-btn{
+    border: none;
+    color: #339ce3;
+    background: none;
+    font-weight: bolder;
+    cursor: pointer;
+}
+
+.details{
+    border-top: 1px solid rgb(173, 173, 173);
+}
+
+textarea{
+    width: 90%;
+    border: none;
+    outline: none;
+}
+
+#output{
+    width: 300px;
+    border: none;
+    outline: none;
+    margin-top: 5px;
+}

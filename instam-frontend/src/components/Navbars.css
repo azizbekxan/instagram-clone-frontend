@@ -1,0 +1,56 @@
+img{
+    width: 15% ;
+    object-fit: contain;
+}
+
+.navbars{
+    display: flex;
+    justify-content: space-around;
+    box-shadow: 1px 5px 5px #e0dcdc;
+    /* padding-top: 15px; */
+}
+
+ul{
+    display: flex;
+    align-items: baseline;
+}
+
+li{
+    list-style: none;
+    padding: 4px 23px;
+}
+a{
+    text-decoration: none;
+    color: rgb(14, 0, 0);
+    font-size: 20px;
+}
+
+.Bteen{
+    cursor: pointer;
+    font-weight: bolder;
+    padding: 8px 17px;
+    font-size: 15px;
+    border: none;
+    color: white;
+    background: #db183c;
+    border-radius: 15px;
+    margin-left: 20px;
+}
+
+.signUpLogo{
+    padding:6px;
+    background-color: none;
+    width: 10%;
+}
+
+.toto{
+    padding-top: 4px;
+}
+
+.prop{
+    padding-top: 20px;
+}
+
+.size-photo{
+    width: 175px;
+}

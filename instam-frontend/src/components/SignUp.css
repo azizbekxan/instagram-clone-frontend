@@ -1,0 +1,81 @@
+
+.form{
+    background-color: #fff;
+    padding: 40px;
+    border: 2px solid rgb(231, 210, 210);
+    border-radius: 2px;
+}
+
+
+.signUp{
+    background-image: url("https://i.pinimg.com/736x/2d/a7/6d/2da76d68c1552fcee5f200fe68c8e135.jpg");
+    background-size: cover;
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.insta{
+    text-shadow: 2px 2px 5px blue;
+    font-family: Comic Sans MS;
+    font-size:40px;
+}
+
+.signUpLogo{
+    width: 300px;
+    height: 400px;
+    padding: 0px 0px;
+    object-fit: contain;
+
+}
+
+.logoText{
+    color: black;
+    text-shadow: 2px 2px 5px  rgb(98, 98, 245);
+    font-size: 25px;
+    font-weight: 600;
+    line-height: 25px;
+    margin: 0px 40px 40px 30px;
+}
+
+input{
+    padding: 10px;
+    margin: 3px 0px;
+    width: 400px;
+    outline: none;
+    font-size: 20px;
+    box-sizing: border-box;
+}
+
+.inText{
+    width: 400px;
+    background-color: rgb(41, 99, 224);
+    border-radius: 4px;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+    margin-top: 25px;
+}
+
+input::placeholder{
+    font-size: 17px;
+    color: rgb(5, 31, 180);
+}
+
+#tam{
+    font-size: 16px;
+    margin: 3px 0px;
+}
+
+.form2{
+    background-color: #fff;
+    margin-top: 5px;
+    padding: 30px;
+    border: 2px solid rgb(231, 210, 210);
+}
+
+#spen{
+    color: blue;
+    cursor: pointer;
+}

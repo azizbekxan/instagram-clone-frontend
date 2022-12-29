@@ -1,0 +1,18 @@
+.followBtn{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.followBtnn{
+    cursor: pointer;
+    font-weight: bolder;
+    padding: 8px 17px;
+    font-size: 15px;
+    border: none;
+    color: white;
+    background: #0c38ca;
+    border-radius: 15px;
+    margin-left: 20px;
+    margin-left: 40px;
+}
